@@ -29,5 +29,4 @@ Si tienes un proyecto interesante o quieres compartir conocimientos, no dudes en
 
 <br />
 
-# 📊 GitHub Stats:
-#
+
