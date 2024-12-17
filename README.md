@@ -30,5 +30,4 @@ Si tienes un proyecto interesante o quieres compartir conocimientos, no dudes en
 <br />
 
 # 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=juangararr&show_icons=true&theme=gruvbox
 #
